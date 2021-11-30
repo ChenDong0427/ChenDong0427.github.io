@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Dawei Li
+E-mail: blcu_lidawei@163.com
 
-You can use the [editor on GitHub](https://github.com/ChenDong0427/ChenDong0427.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Phone: +86 13240149478
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Resume
+I am a senior student at Beijing Language and Cultural University. I am a trainee researcher at the Advanced Center of Language Resources(ACLR), participating in the research of automatic composition scoring and definition modeling; I am an intern in the AI lab of Xiaomi, participating in the construction of the commonsense conversational knowledge graph. I have won the second-class scholarship, the first prize in mathematical modeling many times. I like playing basketball and frisbee in my free time.
 
-### Markdown
+## Research Interest
+Text Generation, Dialogue System, Knowledge Graph
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## System Development
+[AES: A composition automatic scoring system with word recommendation and data visualization](https://github.com/David-Li0406/AES-system)
 
-```markdown
-Syntax highlighted code block
+[AAC: A automatic article correction system with article recommendation, image recongnition and voice comment](https://github.com/David-Li0406/AAC-system)
 
-# Header 1
-## Header 2
-### Header 3
+[Lung Health System](https://github.com/Valarzz/Lung-Health-System)
 
-- Bulleted
-- List
+## Publication
+**Dawei Li**, Zongxuan Shi, Hao Zhang, Renhao Zhang. Domain Adaptation in Nuclei Semantic Segmentation. 2021 International Conference on Computer Vision, Application and Design (**CVAD 2021**)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChenDong0427/ChenDong0427.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Hengyuan Zhang, **Dawei Li**, Jianing An, Yang Liu. Design and Implementation of an Automatic Compositions’ Scoring System for Chinese Learners. Electronic Technology & Software Engineering, 2020, {4} (21):127-130

@@ -1,5 +1,5 @@
 # Chen Dong
-E-mail: blcu_lidawei@163.com
+E-mail: cdong27@bu.edu
 
 Phone: +86 13240149478
 

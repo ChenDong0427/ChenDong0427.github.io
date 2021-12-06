@@ -17,3 +17,5 @@ Machine Learning, Algorithm Improvement, Model Refinement
 
 [Report Report On The Relationship Between University Degree and Annual Income](https://github.com/ChenDong0427/University-Degree-and-Income-Report)
 
+[Kaggle Competition's Codes, Results, and Dataset](https://github.com/ChenDong0427/Kaggle-Competition)
+

@@ -5,6 +5,7 @@ Phone: +1 8572946597
 
 ## Resume
 I am a senior student at Boston University with bachelor degree in Computer Science and minor in Business Administration. 
+
 [Clik here to see the full resume](https://github.com/ChenDong0427/Resume)
 
 

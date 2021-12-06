@@ -10,7 +10,7 @@ I am a senior student at Boston University.
 Machine Learning, Algorithm Improvement, Model Refinement 
 
 ## System Development
-[AES: A composition automatic scoring system with word recommendation and data visualization](https://github.com/David-Li0406/AES-system)
+[Five In A Row Game](https://github.com/ChenDong0427/Five-In-A-Row-Game)
 
 [AAC: A automatic article correction system with article recommendation, image recongnition and voice comment](https://github.com/David-Li0406/AAC-system)
 

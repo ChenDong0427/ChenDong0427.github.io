@@ -2,6 +2,8 @@
 E-mail: cdong27@bu.edu
 
 Phone: +1 8572946597
+![image](https://user-images.githubusercontent.com/90412105/147158342-df63ce4c-b61e-4864-bf97-be0aed809373.png)
+
 
 ## Resume
 I am a senior student at Boston University with bachelor degree in Computer Science and minor in Business Administration. 

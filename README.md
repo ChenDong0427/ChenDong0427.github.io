@@ -2,7 +2,8 @@
 E-mail: cdong27@bu.edu
 
 Phone: +1 8572946597
-![image](https://user-images.githubusercontent.com/90412105/147158342-df63ce4c-b61e-4864-bf97-be0aed809373.png)
+
+![image](https://user-images.githubusercontent.com/90412105/147158362-60ac5f31-908a-4ed5-9374-f0e9ceb680d6.png)
 
 
 ## Resume

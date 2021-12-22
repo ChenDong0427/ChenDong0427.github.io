@@ -1,10 +1,10 @@
 # Chen Dong
+
+![image](https://user-images.githubusercontent.com/90412105/147158392-f0d2d5bd-eb83-4d33-8bff-6a653f76602b.png)
+
 E-mail: cdong27@bu.edu
 
 Phone: +1 8572946597
-
-![image](https://user-images.githubusercontent.com/90412105/147158362-60ac5f31-908a-4ed5-9374-f0e9ceb680d6.png)
-
 
 ## Resume
 I am a senior student at Boston University with bachelor degree in Computer Science and minor in Business Administration. 

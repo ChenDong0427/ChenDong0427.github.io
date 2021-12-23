@@ -16,7 +16,7 @@ I am a senior student at Boston University with bachelor degree in Computer Scie
 Machine Learning, Algorithm Improvement, Model Refinement 
 
 ## Project
-The project will not include any intern related codes, datasets, and conclusions since the companies restricted any disclosure of any data.
+The project will not include any intern related codes, datasets, and results since the companies restricted any disclosure of any data.
 
 [Five In A Row Game](https://github.com/ChenDong0427/Five-In-A-Row-Game)
 

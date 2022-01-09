@@ -6,11 +6,8 @@ E-mail: cdong27@bu.edu
 
 Phone: +1 8572946597
 
-## Resume
+## Information
 I am a senior student at Boston University with bachelor degree in Computer Science and minor in Business Administration. 
-
-[Clik here to see the full resume](https://github.com/ChenDong0427/Resume)
-
 
 ## Research Interest
 Machine Learning, Algorithm Improvement, Model Refinement 
